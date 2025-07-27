@@ -1,0 +1,32 @@
+{
+  "name": "homework3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+  "test": "jest --coverage",
+  "lint": "eslint ."
+},
+"type": "module", 
+
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rada-fairadova/homework3.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rada-fairadova/homework3/issues"
+  },
+  "homepage": "https://github.com/rada-fairadova/homework3#readme",
+  "devDependencies": {
+    "@babel/core": "^7.28.0",
+    "@babel/preset-env": "^7.28.0",
+    "eslint": "^9.32.0",
+    "jest": "^30.0.5"
+  },
+  "dependencies": {
+    "core-js": "^3.44.0"
+  }
+}
