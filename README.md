@@ -1,2 +1,2 @@
 # homework3
-![CI](https://github.com/ваш-username/health-indicator/workflows/Node.js%20CI/badge.svg)
+![CI](https://github.com/rada-fairadova/homework3/workflows/Node.js%20CI/badge.svg)
